@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/proyecto-final-d3/static/css/main.f0d503c2.css",
+    "main.js": "/proyecto-final-d3/static/js/main.3323d856.js",
+    "static/media/Cloud-background.png": "/proyecto-final-d3/static/media/Cloud-background.f88244c26c2492e3c5f1.png",
+    "index.html": "/proyecto-final-d3/index.html",
+    "main.f0d503c2.css.map": "/proyecto-final-d3/static/css/main.f0d503c2.css.map",
+    "main.3323d856.js.map": "/proyecto-final-d3/static/js/main.3323d856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d503c2.css",
+    "static/js/main.3323d856.js"
+  ]
+}
